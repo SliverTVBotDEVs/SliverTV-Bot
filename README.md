@@ -11,6 +11,10 @@
 5. Make your Settings and then Save
 6. Goto Sliver.TV and have FUN !!!!
 
+## Settings
+
+![](https://www2.pic-upload.de/img/36076141/2.png)
+
 ## Pro Version
 
 ![](https://www2.pic-upload.de/img/36076132/Stats.png)
