@@ -19,6 +19,12 @@
 
 ![](https://www2.pic-upload.de/img/36076132/Stats.png)
 
+![](https://www2.pic-upload.de/img/36076152/asfasfasfasfasfasd.png)
+
+--> The next version is a Standalone Firefox OR Chrome Plugin
+
+Get Pro Version on https://discord.gg/AKWeMG8
+
 ## Release History
 
 * 0.1.0
