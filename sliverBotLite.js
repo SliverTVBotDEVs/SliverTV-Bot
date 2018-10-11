@@ -12,6 +12,7 @@
 // @include      https://www.sliver.tv/win/sliverspotlight
 // @include      https://www.sliver.tv/win/theta
 // @include      https://www.sliver.tv/win/wow
+// @include      https://www.sliver.tv/win/cod
 // @include      https://www.sliver.tv/account/inventory
 // @match        https://www.sliver.tv/win/fortnite
 // @match        https://www.sliver.tv/win/pubg
@@ -21,6 +22,7 @@
 // @match        https://www.sliver.tv/win/sliverspotlight
 // @match        https://www.sliver.tv/win/theta
 // @match        https://www.sliver.tv/win/wow
+// @match        https://www.sliver.tv/win/cod
 // @match        https://www.sliver.tv/account/inventory
 // @grant        none
 // ==/UserScript==
